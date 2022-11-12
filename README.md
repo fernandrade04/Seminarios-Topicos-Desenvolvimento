@@ -19,4 +19,27 @@
 </h3>
 
 <h2>Getting Started:</h2>
-<h3></h3>
+<h3>Após a instalação do framework, para se criar um primeiro projeto basta digitar o comando no diretório onde deseja criar o projeto "composer create-project laravel/laravel nome-da-pasta". Quando criamos o pprojeto nos deparamos com as seguintes pastas:</h3>
+
+<img  src="https://cdn.discordapp.com/attachments/762851212193693696/1040800831664041984/image.png" >
+
+<h3>
+Diretório “app” - nele temos todos arquivos de nossa aplicação, podemos ver vários outros diretórios, mas iremos focar no diretório Http, pois nele temos o nosso arquivo routes.php, que é onde definimos todas as rotas de nossa aplicação. Temos também vários diretórios, entre eles, o “Controllers”, que é onde ficam todos os controllers de nossa aplicação.
+
+Diretório config - onde configuramos todo nosso projeto. Nele temos o arquivo app.php, que é onde podemos configurar várias variáveis de nossa aplicação como local, fuso-horário, os providers e definir os aliases de nossa aplicação. Ainda no diretório config temos o arquivo database.php que é onde definimos todas as configurações sobre a conexão com o Banco de Dados. Ainda temos vários outros arquivos como o mail.php para definir configurações de e-mail de nossa aplicação;
+
+Diretório database - onde definimos três tipos de arquivos importantes:
+o Migrations: uma das ferramentas mais poderosas do Laravel para definir, através de arquivos PHP, como nosso Banco de Dados deve ser criado. Através do Artisan, que é a interface de linha de comando do Laravel, criamos, alteramos e excluímos tabelas do nosso Banco de Dados de forma fácil, rápida e intuitiva;
+o Seeds: com esses arquivos podemos popular as tabelas do Banco de Dados com os dados que queremos para testes de forma fácil e rápida;
+o Factories: essa ferramenta foi introduzida na versão 5.1 do Framework, para popular as tabelas do Banco de Dados com dados criados de forma automática e randômica, permitindo incluir uma grande massa de dados de forma bem rápida para criação de testes;
+
+Diretório “public” - possui os arquivos .htaccess e index.php, que é o roteador de nossa aplicação. Ele recebe as requisições, as trata através do kernel e retorna para os usuários as respostas.
+
+Diretório “resources” - nele temos três diretórios importantes:
+o Assets: usado para armazenarmos todos arquivos de estilo (CSS, LESS, SASS, etc.), scripts (JavaScript, etc.), imagens e outros recursos necessários para nossa aplicação
+o Lang: usado para armazenarmos os arquivos de tradução para nossa aplicação;
+o Views: usado para armazenar os arquivos de nossa camada de visualização;
+
+Arquivo “.env” - nele definimos várias configurações de nossa aplicação, como os dados de configuração da conexão do banco de dados e a configuração de e-mails.
+
+</h3>
