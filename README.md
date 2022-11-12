@@ -1,6 +1,9 @@
 <h1>RELATÓRIO – LARAVEL</h1>
 <img  src="https://cdn.discordapp.com/attachments/762851212193693696/1039754476736753745/laravel.png" >
+<h2>Introdução</h2>
 <h3>O Laravel é um framework que te dá um suporte na programação em PHP, com várias ferramentas e funcionalidades pré prontas que agilizam seu trabalho. Ele auxilia principalmente nas partes de permissionamento, controle de seções, autenticação, entre várias outras aplicações. O mesmo foi criado para os sistemas web que utilizam o padrão MVC. Além de todas essas vantagens, o Laravel também possui suporte para os bancos de dados: MySQL, PostgreSQL, SQLite, SQL Server.
+<h2>O que é um framework?</h2>
+<h3>No mundo de desenvolvimento de softwares, o termo ‘frameworks’ refere-se à biblioteca de arquivos que armazena diversas funções básicas. O objetivo do framework é fornecer uma fundação para que você desenvolva seus projetos mais eficientemente.</h3>
  
 <h2>Instalação:</h2>
 <h3>
