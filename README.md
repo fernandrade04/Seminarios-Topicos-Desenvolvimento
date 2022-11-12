@@ -41,5 +41,9 @@ o Lang: usado para armazenarmos os arquivos de tradução para nossa aplicação
 o Views: usado para armazenar os arquivos de nossa camada de visualização;
 
 Arquivo “.env” - nele definimos várias configurações de nossa aplicação, como os dados de configuração da conexão do banco de dados e a configuração de e-mails.
-
+ 
 </h3>
+ 
+<h3>O Laravel é bastante utilizado por dev's no cotidiano pois torna mais fácil de se fazer sites que possuem "2 telas", que no caso seria uma tela pública que todos os usuários veriam e uma tela apenas para administradores acessarem</h3>
+ 
+ <h2>Ferramentas Similares:</h2>
