@@ -47,3 +47,5 @@ Arquivo “.env” - nele definimos várias configurações de nossa aplicação
 <h3>O Laravel é bastante utilizado por dev's no cotidiano pois torna mais fácil de se fazer sites que possuem "2 telas", que no caso seria uma tela pública que todos os usuários veriam e uma tela apenas para administradores acessarem</h3>
  
  <h2>Ferramentas Similares:</h2>
+ 
+ <h3><b>Spring Boot</b></h3>
