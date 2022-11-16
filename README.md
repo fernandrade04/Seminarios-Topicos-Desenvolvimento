@@ -48,4 +48,16 @@ Arquivo “.env” - nele definimos várias configurações de nossa aplicação
  
  <h2>Ferramentas Similares:</h2>
  
- <h3><b>Spring Boot</b></h3>
+ <h3>SPRING BOOT</h3>
+ <h3>O Spring Boot é um framework Java  que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais.
+Com o Spring Boot conseguimos abstrair e facilitar a configuração de, por exemplo:
+
+Servidores; 
+Gerenciamento de dependências;
+Configurações de bibliotecas;
+Métricas & health checks;
+  
+Para realizar todo esse processo o Spring Boot utiliza um conceito chamado convenção sobre configuração.
+Mas o que isso significa? Significa que é uma ferramenta que decide para você a melhor forma de se fazer algo. É o que chamamos de ferramenta opinativa, ela toma as decisões no nosso lugar baseado em convenções, aplicando configurações padrões e facilitando o trabalho.
+No entanto ela não é inflexível e ainda permite uma configuração diferente da default caso o usuário assim deseje.
+Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que toda essa configuração não necessita mais ser realizada pelos temidos XMLs, embora ele ainda suporte esse tipo de configuração.  A maior parte da configuração pode ser feita de forma programática via anotações.</h3>
