@@ -66,4 +66,4 @@ Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que tod
  <h3>
 O Django é um framework web full stack open source (código aberto) baseado em Python, gratuito e de alto nível.
 Este framework foi criado com o objetivo de resolver todos os problemas mais comuns do processo de desenvolvimento de aplicações web, como por exemplo autenticação, rotas, object relational mapper (ORM) e até migrations.
-Além disso, ele ainda suporta projetos escaláveis e conta com um eficiente sistema de segurança.</h3>
+Além disso, ele ainda suporta projetos escaláveis e conta com um eficiente sistema de segurança. O Django fornece aos seus programadores e programadoras uma construção de sites rápida e com o uso de pouco código. Porém uma das diferençãs dele é que suas aplicações são baseadas no MVT, diferente do Laravel que é no MVC. O "T" do MVT significa Template: esta é a camada onde o template da aplicação é produzido através de artefatos compreendidos pelo navegador web. Esta é a parte que diz respeito a tudo que o usuário final é capaz de visualizar em seu dispositivo.</h3>
