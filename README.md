@@ -63,6 +63,7 @@ No entanto ela não é inflexível e ainda permite uma configuração diferente 
 Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que toda essa configuração não necessita mais ser realizada pelos temidos XMLs, embora ele ainda suporte esse tipo de configuração.  A maior parte da configuração pode ser feita de forma programática via anotações.
  Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que toda essa configuração não necessita mais ser realizada pelos temidos XMLs, embora ele ainda suporte esse tipo de configuração.  A maior parte da configuração pode ser feita de forma programática via anotações.</h3>
  <h2>DJANGO</h2>
+<img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042919958767730719/unknown.png">
  <h3>
 O Django é um framework web full stack open source (código aberto) baseado em Python, gratuito e de alto nível.
 Este framework foi criado com o objetivo de resolver todos os problemas mais comuns do processo de desenvolvimento de aplicações web, como por exemplo autenticação, rotas, object relational mapper (ORM) e até migrations.
