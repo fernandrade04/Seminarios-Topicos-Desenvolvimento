@@ -21,7 +21,7 @@
 <h2>Getting Started:</h2>
 <h3>Após a instalação do framework, para se criar um primeiro projeto basta digitar o comando no diretório onde deseja criar o projeto "composer create-project laravel/laravel nome-da-pasta". Quando criamos o pprojeto nos deparamos com as seguintes pastas:</h3>
 
-<img  src="https://cdn.discordapp.com/attachments/762851212193693696/1040800831664041984/image.png" >
+<img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042920954826862652/django.png" >
 
 <h3>
 Diretório “app” - nele temos todos arquivos de nossa aplicação, podemos ver vários outros diretórios, mas iremos focar no diretório Http, pois nele temos o nosso arquivo routes.php, que é onde definimos todas as rotas de nossa aplicação. Temos também vários diretórios, entre eles, o “Controllers”, que é onde ficam todos os controllers de nossa aplicação.
