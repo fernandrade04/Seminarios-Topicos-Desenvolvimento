@@ -1,5 +1,5 @@
 <h1>RELATÓRIO – LARAVEL</h1>
-<img  src="https://cdn.discordapp.com/attachments/762851212193693696/1039754476736753745/laravel.png" >
+<img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042921212797530113/unknown.png" >
 <h2>Introdução</h2>
 <h3>O Laravel é um framework que te dá um suporte na programação em PHP, com várias ferramentas e funcionalidades pré prontas que agilizam seu trabalho. Ele auxilia principalmente nas partes de permissionamento, controle de seções, autenticação, entre várias outras aplicações. O mesmo foi criado para os sistemas web que utilizam o padrão MVC. Além de todas essas vantagens, o Laravel também possui suporte para os bancos de dados: MySQL, PostgreSQL, SQLite, SQL Server.
 <h2>O que é um framework?</h2>
@@ -21,7 +21,7 @@
 <h2>Getting Started:</h2>
 <h3>Após a instalação do framework, para se criar um primeiro projeto basta digitar o comando no diretório onde deseja criar o projeto "composer create-project laravel/laravel nome-da-pasta". Quando criamos o pprojeto nos deparamos com as seguintes pastas:</h3>
 
-<img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042920954826862652/django.png" >
+<img  src="https://cdn.discordapp.com/attachments/762851212193693696/1040800831664041984/image.png" >
 
 <h3>
 Diretório “app” - nele temos todos arquivos de nossa aplicação, podemos ver vários outros diretórios, mas iremos focar no diretório Http, pois nele temos o nosso arquivo routes.php, que é onde definimos todas as rotas de nossa aplicação. Temos também vários diretórios, entre eles, o “Controllers”, que é onde ficam todos os controllers de nossa aplicação.
@@ -63,7 +63,7 @@ No entanto ela não é inflexível e ainda permite uma configuração diferente 
 Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que toda essa configuração não necessita mais ser realizada pelos temidos XMLs, embora ele ainda suporte esse tipo de configuração.  A maior parte da configuração pode ser feita de forma programática via anotações.
  Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que toda essa configuração não necessita mais ser realizada pelos temidos XMLs, embora ele ainda suporte esse tipo de configuração.  A maior parte da configuração pode ser feita de forma programática via anotações.</h3>
  <h2>DJANGO</h2>
-<img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042919958767730719/unknown.png">
+<img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042920954826862652/django.png">
  <h3>
 O Django é um framework web full stack open source (código aberto) baseado em Python, gratuito e de alto nível.
 Este framework foi criado com o objetivo de resolver todos os problemas mais comuns do processo de desenvolvimento de aplicações web, como por exemplo autenticação, rotas, object relational mapper (ORM) e até migrations.
