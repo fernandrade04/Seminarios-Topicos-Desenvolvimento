@@ -49,6 +49,7 @@ Arquivo “.env” - nele definimos várias configurações de nossa aplicação
  <h2>Ferramentas Similares:</h2>
  
  <h2>SPRING BOOT</h2>
+ <img src="https://cdn.discordapp.com/attachments/1042917620472627240/1042921987560968202/unknown.png">
  <h3>O Spring Boot é um framework Java  que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais.
 Com o Spring Boot conseguimos abstrair e facilitar a configuração de, por exemplo:
 
