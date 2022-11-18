@@ -49,7 +49,7 @@ Arquivo “.env” - nele definimos várias configurações de nossa aplicação
  <h2>Ferramentas Similares:</h2>
  
  <h2>SPRING BOOT</h2>
- <img src="https://cdn.discordapp.com/attachments/1042917620472627240/1042921987560968202/unknown.png">
+ <p align="center"><img src="https://cdn.discordapp.com/attachments/1042917620472627240/1042921987560968202/unknown.png"></p>
  <h3>O Spring Boot é um framework Java  que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais.
 Com o Spring Boot conseguimos abstrair e facilitar a configuração de, por exemplo:
 
@@ -64,7 +64,7 @@ No entanto ela não é inflexível e ainda permite uma configuração diferente 
 Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que toda essa configuração não necessita mais ser realizada pelos temidos XMLs, embora ele ainda suporte esse tipo de configuração.  A maior parte da configuração pode ser feita de forma programática via anotações.
  Uma das maiores vantagens que o Spring Boot trouxe ao desenvolvimento é que toda essa configuração não necessita mais ser realizada pelos temidos XMLs, embora ele ainda suporte esse tipo de configuração.  A maior parte da configuração pode ser feita de forma programática via anotações.</h3>
  <h2>DJANGO</h2>
-<img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042920954826862652/django.png">
+<p align="center"><img  src="https://cdn.discordapp.com/attachments/1042917620472627240/1042920954826862652/django.png"></p>
  <h3>
 O Django é um framework web full stack open source (código aberto) baseado em Python, gratuito e de alto nível.
 Este framework foi criado com o objetivo de resolver todos os problemas mais comuns do processo de desenvolvimento de aplicações web, como por exemplo autenticação, rotas, object relational mapper (ORM) e até migrations.
